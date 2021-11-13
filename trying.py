@@ -4,7 +4,7 @@ import plotly.express as px
 import numpy as np
 
 
-data_path = r'C:\Users\bartl\OneDrive\Dokumenty\Visual Studio\Lets try streamlit\Inflation Data.csv'
+data_path = r'Inflation Data.csv'
 
 
 @st.cache
